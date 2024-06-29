@@ -1,0 +1,10 @@
+C:\Users\gicyp\OneDrive\Área de Trabalho\solucao-sistemas-lineares\solucaodesistemas\bin\Debug\solucaodesistemas.exe.config
+C:\Users\gicyp\OneDrive\Área de Trabalho\solucao-sistemas-lineares\solucaodesistemas\bin\Debug\solucaodesistemas.exe
+C:\Users\gicyp\OneDrive\Área de Trabalho\solucao-sistemas-lineares\solucaodesistemas\bin\Debug\solucaodesistemas.pdb
+C:\Users\gicyp\OneDrive\Área de Trabalho\solucao-sistemas-lineares\solucaodesistemas\obj\Debug\solucaodesistemas.csproj.AssemblyReference.cache
+C:\Users\gicyp\OneDrive\Área de Trabalho\solucao-sistemas-lineares\solucaodesistemas\obj\Debug\solucaodesistemas.MainForm.resources
+C:\Users\gicyp\OneDrive\Área de Trabalho\solucao-sistemas-lineares\solucaodesistemas\obj\Debug\solucaodesistemas.Properties.Resources.resources
+C:\Users\gicyp\OneDrive\Área de Trabalho\solucao-sistemas-lineares\solucaodesistemas\obj\Debug\solucaodesistemas.csproj.GenerateResource.cache
+C:\Users\gicyp\OneDrive\Área de Trabalho\solucao-sistemas-lineares\solucaodesistemas\obj\Debug\solucaodesistemas.csproj.CoreCompileInputs.cache
+C:\Users\gicyp\OneDrive\Área de Trabalho\solucao-sistemas-lineares\solucaodesistemas\obj\Debug\solucaodesistemas.exe
+C:\Users\gicyp\OneDrive\Área de Trabalho\solucao-sistemas-lineares\solucaodesistemas\obj\Debug\solucaodesistemas.pdb

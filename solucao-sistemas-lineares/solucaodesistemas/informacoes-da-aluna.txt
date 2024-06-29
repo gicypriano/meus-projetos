@@ -1,0 +1,3 @@
+Aplicação desenvolvida por: Giovanna Cypriano dos Santos
+Curso: Desenvolvimento de Software Multiplataforma
+Semestre: 3º
